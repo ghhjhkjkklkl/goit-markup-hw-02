@@ -1,0 +1,22 @@
+:root {
+
+}
+body {
+    font-family: Roboto, Tahoma;
+    color: background: #212121;
+}
+.link {
+    text-decoration: none;
+}
+.list {
+    list-style: none;
+}
+
+!------
+.header-link {
+    font-weight: 900;
+    font-size: 100px;
+    line-height: 1.36;
+    letter-spacing: 0.06em;
+    color: #FFFFFF;  
+}
